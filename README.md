@@ -7,9 +7,9 @@
 This list focuses on resources for learning Common Lisp, especially resources that I've found useful.
 
 There are other awesome Common Lisp lists that focus on other topics:
-* [Common Lisp Libraries](https://github.com/CodyReichert/awesome-cl)
-* [More Common Lisp Libraries](https://github.com/vindarel/curated-awesome-cl) (forked and updated from the above list)
-* [Common Lisp Software](https://github.com/azzamsa/awesome-cl-software)
+* [Awesome Common Lisp Libraries](https://github.com/CodyReichert/awesome-cl)
+* [Curated Awesome Common Lisp Libraries](https://github.com/vindarel/curated-awesome-cl) (forked and updated from the above list)
+* [Awesome Common Lisp Software](https://github.com/azzamsa/awesome-cl-software)
 
 Contributions are welcome. Please submit a pull request or create an issue to add to the list.
 
@@ -65,6 +65,9 @@ These aren't libraries, but can help you find and install other libraries.
 * [Quicklisp](https://www.quicklisp.org/beta/), a package management platform for Lisp libraries.
 * [Quickdocs](http://quickdocs.org/), documentation for projects in Quicklisp
 * [State of the Common Lisp Ecosystem, 2015](http://borretti.me/article/common-lisp-sotu-2015) talks about what libraries you should use, and why.
+* The Articulate Common Lisp site [lists some useful libraries](http://articulate-lisp.com/project/abcs.html).
+* As mentioned at the top, the [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl) and [Curated Awesome Common Lisp](https://github.com/vindarel/curated-awesome-cl) lists focus on libraries.
+
 
 ## Common Lisp Implementation
 This section lists some common CL implementations and their manuals in alphabetical order. Unless otherwise noted, these are free software implementations. See also the Cliki's list of [free software Common Lisp Implementations](https://www.cliki.net/Common%20Lisp%20implementation).
