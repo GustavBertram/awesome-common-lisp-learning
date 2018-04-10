@@ -23,12 +23,15 @@ Contributions are welcome. Please submit a pull request or create an issue to ad
 7. At some point, read your Lisp implementation's manual.
 
 ## Lisp Environments
-You can run a Lisp implementation directly, but an editor makes the experience easier.
-* [Portacle](https://shinmera.github.io/portacle/), a portable and multiplatform Common Lisp environment. It ships a slightly customized Emacs with SLIME, SBCL (a popular Common Lisp implementation), Quicklisp and Git. No installation needed, so it's a very quick and easy way to get going.
-* [Lispbox](https://common-lisp.net/project/lispbox/), an IDE (Emacs + SLIME), Common Lisp implementation (Clozure Common Lisp) and library manager (Quicklisp), pre-packaged as archives for Windows, Mac OSX and Linux. Descendant of "Lisp in a Box" [mentioned](http://www.gigamonkeys.com/book/lather-rinse-repeat-a-tour-of-the-repl.html) in Practical Common Lisp.
-* If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
-* [Lispworks Personal Edition](http://www.lispworks.com/downloads/) is a non-Emacs based IDE for LispWorks Lisp, with some restrictions.
-* The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html).
+You can run a Lisp implementation directly, but an editing environment makes the experience easier.
+* Prepackaged environments
+  * [Portacle](https://shinmera.github.io/portacle/), a portable and multiplatform Common Lisp environment. It ships a slightly customized Emacs with SLIME, SBCL (a popular Common Lisp implementation), Quicklisp and Git. No installation needed, so it's a very quick and easy way to get going.
+  * [Lispbox](https://common-lisp.net/project/lispbox/), an IDE (Emacs + SLIME), Common Lisp implementation (Clozure Common Lisp) and library manager (Quicklisp), pre-packaged as archives for Windows, Mac OSX and Linux. Descendant of "Lisp in a Box" [mentioned](http://www.gigamonkeys.com/book/lather-rinse-repeat-a-tour-of-the-repl.html) in Practical Common Lisp.
+  * [Lispworks Personal Edition](http://www.lispworks.com/downloads/) is a non-Emacs based IDE for LispWorks Lisp, with some restrictions.
+* For advanced users
+  * [Articulate Common Lisp](http://articulate-lisp.com/) is a HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
+  * If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
+  * The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell](https://github.com/roswell/roswell/wiki), or on Docker.
 
 ## Online References
 * [The Common Lisp Hyperspec](http://www.lispworks.com/documentation/common-lisp.html) (CLHS) is _the_ language reference document for Common Lisp. Bookmark it now.
