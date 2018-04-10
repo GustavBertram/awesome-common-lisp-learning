@@ -6,7 +6,7 @@
 
 This list focuses on resources for learning Common Lisp, especially resources that I've found useful.
 
-There are other awesome common lisp lists that focus on other aspects of Common Lisp:
+There are other awesome Common Lisp lists that focus on other topics:
 * [Common Lisp Libraries](https://github.com/CodyReichert/awesome-cl)
 * [More Common Lisp Libraries](https://github.com/vindarel/curated-awesome-cl) (forked and updated from the above list)
 * [Common Lisp Software](https://github.com/azzamsa/awesome-cl-software)
@@ -19,14 +19,14 @@ Contributions are welcome. Please submit a pull request or create an issue to ad
 3. Download and work through a Lisp book of an appropriate level. Type the examples and play with the code. Feel free to switch books and try a different one.
 4. Try out [Exercism](http://exercism.io/languages/common-lisp/about).
 5. [Ask smart questions](http://www.catb.org/esr/faqs/smart-questions.html) in an online community if you get really stuck.
-6. Learn about Quicklisp.
-7. At some point, read your lisp implementation's manual.
+6. Learn about [Quicklisp](https://www.quicklisp.org/beta/).
+7. At some point, read your Lisp implementation's manual.
 
 ## Lisp Environments
 You can run a Lisp implementation directly, but an editor makes the experience easier.
 * [Portacle](https://shinmera.github.io/portacle/), a portable and multiplatform Common Lisp environment. It ships a slightly customized Emacs with SLIME, SBCL (a popular Common Lisp implementation), Quicklisp and Git. No installation needed, so it's a very quick and easy way to get going.
 * [Lispbox](https://common-lisp.net/project/lispbox/), an IDE (Emacs + SLIME), Common Lisp implementation (Clozure Common Lisp) and library manager (Quicklisp), pre-packaged as archives for Windows, Mac OSX and Linux. Descendant of "Lisp in a Box" [mentioned](http://www.gigamonkeys.com/book/lather-rinse-repeat-a-tour-of-the-repl.html) in Practical Common Lisp.
-* If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported common lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
+* If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
 * [Lispworks Personal Edition](http://www.lispworks.com/downloads/) is a non-Emacs based IDE for LispWorks Lisp, with some restrictions.
 * The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html).
 
@@ -78,4 +78,5 @@ I got a lot of the information from [Rainer Joswig's StackOverflow answer on lea
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
