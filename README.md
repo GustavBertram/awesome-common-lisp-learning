@@ -64,6 +64,7 @@ These are books that you'll have to buy, or borrow from a library.
 These aren't libraries, but can help you find and install other libraries.
 * [Quicklisp](https://www.quicklisp.org/beta/), a package management platform for Lisp libraries.
 * [Quickdocs](http://quickdocs.org/), documentation for projects in Quicklisp
+* [State of the Common Lisp Ecosystem, 2015](http://borretti.me/article/common-lisp-sotu-2015) talks about what libraries you should use, and why.
 
 ## Common Lisp Implementation
 This section lists some common CL implementations and their manuals in alphabetical order. Unless otherwise noted, these are free software implementations. See also the Cliki's list of [free software Common Lisp Implementations](https://www.cliki.net/Common%20Lisp%20implementation).
