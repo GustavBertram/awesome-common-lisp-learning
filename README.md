@@ -50,10 +50,16 @@ These books that are freely accessible online, arranged roughly in order from ba
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
-* [Land of Lisp by Conrad Barski, MD](http://landoflisp.com/) is a fantastically fun introduction to Lisp that uses comics and has you writing games. Available as an [ebook](https://www.nostarch.com/lisp.htm). Assumes you're using CLISP, requires minor modifications to work on other implementations. Has an extensive [errata page](http://landoflisp.com/errata.html).
+* [Land of Lisp by Conrad Barski, MD](http://landoflisp.com/) is a fantastically fun introduction to Lisp that uses comics and has you writing games.
+  * Available as an [ebook](https://www.nostarch.com/lisp.htm).
+  * The Web server example in Ch 13 will only work on CLISP.
+  * A couple of the LOOP macros are written `for x for y...` which you can change to `for x from 0 for y...` to make them work in SBCL.
+  * Has an [errata page](http://landoflisp.com/errata.html).
 * [ANSI Common Lisp by Paul Graham](http://www.paulgraham.com/acl.html) is good as a reference, covers CLOS, and has several example program implementations.
 * [Common Lisp Recipes by Edmund Weitz](http://weitz.de/cl-recipes/) is a great set of Common Lisp patterns.
 * [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html), is an _"excellent book on Lisp implementation. You'll get a lot out of it, whether you are interested in writing compilers and interpreters (for Lisp or any language) or whether you just want to see how Lisp works."_ - Peter Norvig's review on the [Amazon product page](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668/).
+
+<!-- Adam Tornhill's AMOP sequence (PCL -> OOP in CL -> AMOP): http://www.adamtornhill.com/reviews/amop.htm  -->
 
 ## Online Community
 * The [Cliki](http://cliki.net) is the Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
