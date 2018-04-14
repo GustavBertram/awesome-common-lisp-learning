@@ -60,6 +60,7 @@ These are books that you'll have to buy, or borrow from a library.
 * The #clnoobs room on the [Freenode IRC network](http://freenode.net/) is active and friendly.
 * The [Lisp Subreddit](http://www.reddit.com/r/lisp/) is an active community, and has loads of useful links and reference documents in the sidebar.
 * [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) is an excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
+* The [Lisp Discord server](https://discord.gg/GEyD6) has a channel dedicated to Common Lisp and will happily answer questions.
 
 ## Libraries
 These aren't libraries, but can help you find and install other libraries.
