@@ -36,8 +36,13 @@ You can run a Lisp implementation directly, but an editing environment makes the
 
 ## Online References
 * [The Common Lisp Hyperspec](http://www.lispworks.com/documentation/common-lisp.html) (CLHS) is _the_ language reference document for Common Lisp. Bookmark it now.
+  * [Chapter 7](http://www.lispworks.com/documentation/HyperSpec/Body/07_.htm) covers the Common Lisp Object System (CLOS).
 * [The Common Lisp Cookbook](http://lispcookbook.github.io/cl-cookbook/) is a list of useful Lisp recipes. Also contains a list of other online sources of CL information.
-* [Common Lisp, the Language by Guy L. Steele](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) is a description of the Common Lisp language from just before it was standardized by ANSI. Some parts are outdated, but it contains better descriptions of [LOOP](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/clm/node235.html#SECTION003000000000000000000) and [FORMAT](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/clm/node200.html) than the CLHS does.
+* [Common Lisp the Language (2nd Edition) by Guy L. Steele](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) is a description of the Common Lisp language from just before it was standardized by ANSI. Don't use it as a reference.
+  * [According to the Cliki](https://cliki.net/Getting+Started), it has more useful descriptions of [LOOP](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/clm/node235.html#SECTION003000000000000000000) and [FORMAT](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/clm/node200.html) than the CLHS does.
+  * [Others recommend](https://stackoverflow.com/questions/108537/what-are-the-main-differences-between-cltl2-and-ansi-cl) using CLtL2 for insight and inspiration, but to use the CLHS when programming.
+  * This is a [list of differences between CLtL2 and the ANSI Common Lisp specification.](http://linuxfinances.info/info/commonlisp.html#AEN9679)
+  * [Chapter 28](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node260.html#SECTION003200000000000000000) covers the Common Lisp Object System.
 
 ## Online Books
 These books that are freely accessible online, arranged roughly in order from basic to advanced:
@@ -56,10 +61,13 @@ These are books that you'll have to buy, or borrow from a library.
   * A couple of the LOOP macros are written `for x for y...` which you can change to `for x from 0 for y...` to make them work in SBCL.
   * Has an [errata page](http://landoflisp.com/errata.html).
 * [ANSI Common Lisp by Paul Graham](http://www.paulgraham.com/acl.html) is good as a reference, covers CLOS, and has several example program implementations.
+  * Plaintext versions of [Chapter 1](http://lib.store.yahoo.net/lib/paulgraham/acl1.txt) and [Chapter 2](http://lib.store.yahoo.net/lib/paulgraham/acl2.txt) are available online.
 * [Common Lisp Recipes by Edmund Weitz](http://weitz.de/cl-recipes/) is a great set of Common Lisp patterns.
+* [Object-Oriented Programming in Common Lisp by Sonya E. Keene](https://www.amazon.com/Object-Oriented-Programming-COMMON-LISP-Programmers/dp/0201175894) is an in-depth description of the CLOS, and shows how to use it with example applications.
+* [The Art of the Metaobject Protocol by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow](https://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/) describes the CLOS Metaobject Protocol (MOP).
+  * [Chapters 5 and 6 (available online)](http://metamodular.com/CLOS-MOP/) are the specification of a metaobject protocol extension to CLOS.
+  * [Adam Tornhill recommends](http://www.adamtornhill.com/reviews/amop.htm) reading Practical Common Lisp, then  Object-Oriented Programming in Common Lisp, and then AMOP.
 * [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html), is an _"excellent book on Lisp implementation. You'll get a lot out of it, whether you are interested in writing compilers and interpreters (for Lisp or any language) or whether you just want to see how Lisp works."_ - Peter Norvig's review on the [Amazon product page](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668/).
-
-<!-- Adam Tornhill's AMOP sequence (PCL -> OOP in CL -> AMOP): http://www.adamtornhill.com/reviews/amop.htm  -->
 
 ## Online Community
 * The [Cliki](http://cliki.net) is the Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
