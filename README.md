@@ -67,7 +67,6 @@ These are books that you'll have to buy, or borrow from a library.
 * [The Art of the Metaobject Protocol by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow](https://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/) describes the CLOS Metaobject Protocol (MOP).
   * [Chapters 5 and 6 (available online)](http://metamodular.com/CLOS-MOP/) are the specification of a metaobject protocol extension to CLOS.
   * [Adam Tornhill recommends](http://www.adamtornhill.com/reviews/amop.htm) reading Practical Common Lisp, then  Object-Oriented Programming in Common Lisp, and then AMOP.
-* [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html), is an _"excellent book on Lisp implementation. You'll get a lot out of it, whether you are interested in writing compilers and interpreters (for Lisp or any language) or whether you just want to see how Lisp works."_ - Peter Norvig's review on the [Amazon product page](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668/).
 
 ## Online Community
 * The [Cliki](http://cliki.net) is the Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
