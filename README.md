@@ -57,11 +57,11 @@ These books that are freely accessible online, arranged roughly in order from ba
   * The first six chapters are available online.
   * [Several people recommend](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) that you be comfortable with On Lisp before reading this book, and that the start is slow.
   * [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) has several non-trivial examples, and demonstrates the power of this feature.
-  * [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
+* [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
-* [Land of Lisp by Conrad Barski, MD](http://landoflisp.com/) is a fantastically fun introduction to Lisp that uses comics and has you writing games.
+* [Land of Lisp by Conrad Barski, MD](http://landoflisp.com/) is a fun introduction to Lisp that uses comics and has you writing games.
   * Available as an [ebook](https://www.nostarch.com/lisp.htm).
   * The Web server example in Ch 13 will only work on CLISP.
   * A couple of the LOOP macros are written `for x for y...` which you can change to `for x from 0 for y...` to make them work in SBCL.
