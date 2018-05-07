@@ -53,8 +53,11 @@ These books that are freely accessible online, arranged roughly in order from ba
 * [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) is a great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
 * [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/~shapiro/Commonlisp/) is a textbook that teaches mainly through the use of exercises.
 * [On Lisp by Paul Graham](http://www.paulgraham.com/onlisp.html) is a great book for intermediately experienced Lispers.
-* [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
-* [Let Over Lambda by Doug Hoyte](https://letoverlambda.com/) is an advanced book on Lisp Macros. [Several people recommend](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) that you be comfortable with On Lisp before reading this book, and that the start is slow. The first six chapters are available online.
+* [Let Over Lambda by Doug Hoyte](https://letoverlambda.com/) is an advanced book on Lisp Macros.
+  * The first six chapters are available online.
+  * [Several people recommend](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) that you be comfortable with On Lisp before reading this book, and that the start is slow.
+  * [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) has several non-trivial examples, and demonstrates the power of this feature.
+  * [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
