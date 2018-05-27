@@ -58,7 +58,6 @@ These books that are freely accessible online, arranged roughly in order from ba
   * [Several people recommend](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) that you be comfortable with On Lisp before reading this book, and that the start is slow.
   * [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) has several non-trivial examples, and demonstrates the power of this feature.
 * [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
-* [Programming Community Curated Books For Learning LISP](https://hackr.io/tutorials/learn-lisp?sort=upvotes&medium_tags%5B%5D=6)
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
@@ -81,6 +80,8 @@ These are books that you'll have to buy, or borrow from a library.
 * The [Lisp Subreddit](http://www.reddit.com/r/lisp/) is an active community, and has loads of useful links and reference documents in the sidebar.
 * [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) is an excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 * The [Lisp Discord server](https://discord.gg/GEyD6) has a channel dedicated to Common Lisp and will happily answer questions.
+* [Hackr.io's Common Lisp Tutorials](https://hackr.io/tutorials/learn-lisp) lists various learning resources, and allows people to upvote good resources.
+
 
 ## Libraries
 These aren't libraries, but can help you find and install other libraries.
