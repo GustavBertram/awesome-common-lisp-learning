@@ -58,6 +58,7 @@ These books that are freely accessible online, arranged roughly in order from ba
   * [Several people recommend](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) that you be comfortable with On Lisp before reading this book, and that the start is slow.
   * [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) has several non-trivial examples, and demonstrates the power of this feature.
 * [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
+* [Programming Community Curated Books For Learning LISP](https://hackr.io/tutorials/learn-lisp?sort=upvotes&medium_tags%5B%5D=6)
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
