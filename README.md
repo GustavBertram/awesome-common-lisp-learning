@@ -57,7 +57,7 @@ These books that are freely accessible online, arranged roughly in order from ba
   * The first six chapters are available online.
   * [Several people recommend](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) that you be comfortable with On Lisp before reading this book, and that the start is slow.
   * [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) has several non-trivial examples, and demonstrates the power of this feature.
-* [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) is another classic book.
+* [Paradigms of Artificial Intelligence Programming by Peter Norvig](https://github.com/norvig/paip-lisp) has many interesting applications of Lisp, but is no longer a good reference for AI.
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
@@ -76,8 +76,9 @@ These are books that you'll have to buy, or borrow from a library.
 
 ## Online Community
 * The [Cliki](http://cliki.net) is the Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
-* The #clnoobs room on the [Freenode IRC network](http://freenode.net/) is active and friendly.
+* The #clnoobs, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Freenode IRC network](http://freenode.net/) are great places for learning about Common Lisp.
 * The [Lisp Subreddit](http://www.reddit.com/r/lisp/) is an active community, and has loads of useful links and reference documents in the sidebar.
+  * See also the [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp/)
 * [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) is an excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 * The [Lisp Discord server](https://discord.gg/GEyD6) has a channel dedicated to Common Lisp and will happily answer questions.
 * [Hackr.io's Common Lisp Tutorials](https://hackr.io/tutorials/learn-lisp) lists various learning resources, and allows people to upvote good resources.
@@ -92,7 +93,7 @@ These aren't libraries, but can help you find and install other libraries.
 * As mentioned at the top, the [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl) and [Curated Awesome Common Lisp](https://github.com/vindarel/curated-awesome-cl) lists focus on libraries.
 
 
-## Common Lisp Implementation
+## Common Lisp Implementations
 This section lists some common CL implementations and their manuals in alphabetical order. Unless otherwise noted, these are free software implementations. See also the Cliki's list of [free software Common Lisp Implementations](https://www.cliki.net/Common%20Lisp%20implementation).
 * [Allegro Common Lisp](https://franz.com/products/allegrocl/) (ACL) and [manual](https://franz.com/support/documentation/). Commercial, but has a free [Express Edition](https://franz.com/downloads/clp/survey) and [training videos on Youtube](https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw).
 * [CLISP](https://clisp.sourceforge.io/) and [manual](https://clisp.sourceforge.io/impnotes.html).
