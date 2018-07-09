@@ -50,8 +50,9 @@ You can run a Lisp implementation directly, but an editing environment makes the
 ## Online Books
 These books that are freely accessible online, arranged roughly in order from basic to advanced:
 * [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/) is a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/~dst/Lisp/sdraw/).
-* [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) is a great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
 * [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/~shapiro/Commonlisp/) is a textbook that teaches mainly through the use of exercises.
+* [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) is a great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
+* [Common Lisp Koans](https://github.com/google/lisp-koans) is not exactly a book, but a set of koans to help you learn the language.
 * [On Lisp by Paul Graham](http://www.paulgraham.com/onlisp.html) is a great book for intermediately experienced Lispers.
 * [Let Over Lambda by Doug Hoyte](https://letoverlambda.com/) is an advanced book on Lisp Macros.
   * The first six chapters are available online.
