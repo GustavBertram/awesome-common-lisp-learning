@@ -82,7 +82,6 @@ These are books that you'll have to buy, or borrow from a library.
   * See also the [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp/)
 * [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) is an excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 * The [Lisp Discord server](https://discord.gg/GEyD6) has a channel dedicated to Common Lisp and will happily answer questions.
-* [Hackr.io's Common Lisp Tutorials](https://hackr.io/tutorials/learn-lisp) lists various learning resources, and allows people to upvote good resources.
 
 
 ## Libraries
