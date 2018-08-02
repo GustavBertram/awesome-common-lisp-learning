@@ -63,11 +63,11 @@ These books that are freely accessible online, arranged roughly in order from ba
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
 * [Land of Lisp by Conrad Barski, MD](http://landoflisp.com/) is a fun introduction to Lisp that uses comics and has you writing games.
-  * Available as an [ebook](https://www.nostarch.com/lisp.htm).
-  * The Web server example in Ch 13, 19 and 20 will only work on CLISP.
+  * Available as an [ebook](https://www.nostarch.com/lisp.htm). 
   * A couple of the LOOP macros are written `for x for y...` which you can change to `for x from 0 for y...` to make them work in SBCL.
   * Has an [errata page](http://landoflisp.com/errata.html).
-  * Most of the book is pretty easy, but Chapter 18 gets very hairy. You can skim or skip what you don't understand, or switch to a simpler book once it gets too complicated.
+  * Most of the book is entertaining and fairly easy, but gets hairy from about Chapter 18. It doesn't feel like later chapters introduce much, so I recommend switching to a different book at that point.
+  * The Web server example in Ch 13, 19 and 20 will only work on CLISP, and needs the addition of HTTP response headers to render the HTML properly.
 * [ANSI Common Lisp by Paul Graham](http://www.paulgraham.com/acl.html) is good as a reference, covers CLOS, and has several example program implementations.
   * Plaintext versions of [Chapter 1](http://lib.store.yahoo.net/lib/paulgraham/acl1.txt) and [Chapter 2](http://lib.store.yahoo.net/lib/paulgraham/acl2.txt) are available online.
 * [Common Lisp Recipes by Edmund Weitz](http://weitz.de/cl-recipes/) is a great set of Common Lisp patterns.
