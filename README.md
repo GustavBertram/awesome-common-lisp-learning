@@ -6,10 +6,10 @@
 
 This list focuses on resources for learning Common Lisp, especially resources that I've found useful.
 
-There are other awesome Common Lisp lists that focus on other topics:
-* [Awesome Common Lisp Libraries](https://github.com/CodyReichert/awesome-cl)
-* [Curated Awesome Common Lisp Libraries](https://github.com/vindarel/curated-awesome-cl) (forked and updated from the above list)
-* [Awesome Common Lisp Software](https://github.com/azzamsa/awesome-cl-software)
+There are other Awesome Common Lisp lists that focus on other topics:
+* [Libraries](https://github.com/CodyReichert/awesome-cl)
+  * [Curated Libraries](https://github.com/vindarel/curated-awesome-cl) (forked and updated from the above list)
+* [Software](https://github.com/azzamsa/awesome-cl-software)
 
 Contributions are welcome. Please submit a pull request or create an issue to add to the list.
 
