@@ -1,1 +1,1 @@
-Contributions are welcome. Please submit a pull request or create an issue to add to the list, and please follow the [Awesome List guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md).
+Contributions are welcome. Please submit a pull request or create an issue to add to the list, and please follow the *format requirements* in the [Awesome List guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md).
