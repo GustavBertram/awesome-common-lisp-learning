@@ -1,14 +1,18 @@
+# Awesome Common Lisp Learning List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <div align="center">
   <img src="LISP_logo_mid.png">
-  <br>
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome">
-  </a>
 </div>
+
+This list focuses on resources for learning Common Lisp, especially resources that I've found useful.
+
+There are other Awesome Common Lisp lists that focus on other topics:
+- [Libraries](https://github.com/CodyReichert/awesome-cl)
+  - [Curated Libraries](https://github.com/vindarel/curated-awesome-cl) - Forked and updated from the above list.
+- [Software](https://github.com/azzamsa/awesome-cl-software)
 
 ## Contents
 
-- [Introduction](#introduction)
 - [How To Use](#how-to-use)
 - [Lisp Environments](#lisp-environments)
 - [Online References](#online-references)
@@ -19,16 +23,6 @@
 - [Common Lisp Implementations](#common-lisp-implementations)
 - [Credit](#credit)
 - [Contributing](#contributing)
-- [Licence](#licence)
-
-# Introduction
-
-This list focuses on resources for learning Common Lisp, especially resources that I've found useful.
-
-There are other Awesome Common Lisp lists that focus on other topics:
-- [Libraries](https://github.com/CodyReichert/awesome-cl)
-  - [Curated Libraries](https://github.com/vindarel/curated-awesome-cl) - Forked and updated from the above list.
-- [Software](https://github.com/azzamsa/awesome-cl-software)
 
 ## How To Use
 1. Get a Lisp environment.
