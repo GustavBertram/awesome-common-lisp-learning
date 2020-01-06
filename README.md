@@ -127,6 +127,3 @@ This section lists some common CL implementations and their manuals in alphabeti
 
 ## Credit
 I got a lot of the information from [Rainer Joswig's Stack Overflow answer on learning Common Lisp](https://stackoverflow.com/a/7224914/1005039), and from the now-defunct Stack Overflow Documents site. The [Cliki's Getting Started](https://cliki.net/Getting%20Started) page was also invaluable.
-
-## Licence
-[![Creative Commons Licence](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
