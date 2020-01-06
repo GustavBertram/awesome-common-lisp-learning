@@ -18,6 +18,7 @@
 - [Library Management](#library-management)
 - [Common Lisp Implementations](#common-lisp-implementations)
 - [Credit](#credit)
+- [Contributing](#contributing)
 - [Licence](#licence)
 
 # Introduction
@@ -128,6 +129,9 @@ This section lists some common CL implementations and their manuals in alphabeti
   - [SBCL manual](http://www.sbcl.org/manual/index.html)
 - [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
   - [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
+
+## Contributing
+- Contributions are welcome. Please read the [contribution guidelines](contributing.md) for details.
 
 ## Credit
 I got a lot of the information from [Rainer Joswig's Stack Overflow answer on learning Common Lisp](https://stackoverflow.com/a/7224914/1005039), and from the now-defunct Stack Overflow Documents site. The [Cliki's Getting Started](https://cliki.net/Getting%20Started) page was also invaluable.
