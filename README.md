@@ -49,7 +49,7 @@ You can run a Lisp implementation directly, but an editing environment makes the
 ## Online References
 - [The Common Lisp Hyperspec (CLHS)](http://www.lispworks.com/documentation/common-lisp.html) - _The_ language reference document for Common Lisp. Bookmark it now.
   - [Chapter 7](http://www.lispworks.com/documentation/HyperSpec/Body/07_.htm) - Covers the Common Lisp Object System (CLOS).
-- [The ANSI Common Lisp Standard Draft](http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html) - The last draft version of the ANSI INCITS 226-1994 (previously ANSI X3.226-1994) standard.
+- [The ANSI Common Lisp Standard Draft](http://cberr.us/tech_writings/notes/common_lisp_standard_draft.html) - The last draft version of the ANSI INCITS 226-1994 (previously ANSI X3.226-1994) standard.
   - The draft is free, the standard isn't.
   - It's pretty much the same as the official standard, and some people prefer it to the CLHS.
 - [The Common Lisp Cookbook](http://lispcookbook.github.io/cl-cookbook/) - A list of useful Lisp recipes. Also contains a list of other online sources of CL information.
