@@ -42,12 +42,12 @@ You can run a Lisp implementation directly, but an editing environment makes the
   - [Lispworks Personal Edition](http://www.lispworks.com/downloads/) - A non-Emacs based IDE for LispWorks Lisp, with some restrictions.
   - [Allegro Common Lisp](https://franz.com/products/allegrocl/) - Has a free [Express Edition](https://franz.com/downloads/clp/survey) IDE, and [training videos on YouTube](https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw).
 - For advanced users
-  - [Articulate Common Lisp](http://articulate-lisp.com/) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
+  - [Articulate Common Lisp](http://articulate-lisp.com) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
   - If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
   - The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell](https://github.com/roswell/roswell/wiki), or on Docker.
 
 ## Online References
-- [The Common Lisp Hyperspec (CLHS)](http://www.lispworks.com/documentation/common-lisp.html) - _The_ language reference document for Common Lisp. Bookmark it now.
+- [The Common Lisp Hyperspec (CLHS)](http://www.lispworks.com/documentation/common-lisp.html) - *The* language reference document for Common Lisp. Bookmark it now.
   - [Chapter 7](http://www.lispworks.com/documentation/HyperSpec/Body/07_.htm) - Covers the Common Lisp Object System (CLOS).
 - [The ANSI Common Lisp Standard Draft](http://cberr.us/tech_writings/notes/common_lisp_standard_draft.html) - The last draft version of the ANSI INCITS 226-1994 (previously ANSI X3.226-1994) standard.
   - The draft is free, the standard isn't.
@@ -66,7 +66,7 @@ These books that are freely accessible online, arranged roughly in order from ba
 - [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) - A great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
 - [Common Lisp Koans](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
 - [On Lisp by Paul Graham](http://www.paulgraham.com/onlisp.html) - A great book for intermediately experienced Lispers.
-- [Let Over Lambda by Doug Hoyte](https://letoverlambda.com/) - An advanced book on Lisp Macros.
+- [Let Over Lambda by Doug Hoyte](https://letoverlambda.com) - An advanced book on Lisp Macros.
   - The first six chapters are available online.
   - [Comments on Let Over Lambda](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) - Several people recommend that you be comfortable with On Lisp before reading this book, and that the start is slow.
   - [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) - Has several non-trivial examples, and demonstrates the power of this feature.
@@ -74,7 +74,7 @@ These books that are freely accessible online, arranged roughly in order from ba
 
 ## Offline Books
 These are books that you'll have to buy, or borrow from a library.
-- [Land of Lisp by Conrad Barski, MD](http://landoflisp.com/) - A fun introduction to Lisp that uses comics and has you writing games.
+- [Land of Lisp by Conrad Barski, MD](http://landoflisp.com) - A fun introduction to Lisp that uses comics and has you writing games.
   - Available as an [ebook](https://www.nostarch.com/lisp.htm). 
   - A couple of the LOOP macros are written `for x for y...` which you can change to `for x from 0 for y...` to make them work in SBCL.
   - Has an [errata page](http://landoflisp.com/errata.html).
@@ -90,7 +90,7 @@ These are books that you'll have to buy, or borrow from a library.
 
 ## Online Community
 - The [Cliki](http://cliki.net) - The Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
-- The #clnoobs, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Freenode IRC network](http://freenode.net/) are great places for learning about Common Lisp.
+- The #clnoobs, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Freenode IRC network](http://freenode.net) are great places for learning about Common Lisp.
 - [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
   - [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
 - [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
@@ -110,9 +110,9 @@ This section lists some common CL implementations and their manuals in alphabeti
 - [Allegro Common Lisp (ACL)](https://franz.com/products/allegrocl/) - Commercial, but has a free [Express Edition](https://franz.com/downloads/clp/survey).
   - [ACL manual](https://franz.com/support/documentation/)
   - [Training videos on YouTube](https://www.youtube.com/channel/UCN36UrxtyNBJPaG0kmBJNRw)
-- [CLISP](https://clisp.sourceforge.io/)
+- [CLISP](https://clisp.sourceforge.io)
   - [CLISP Manual](https://clisp.sourceforge.io/impnotes.html)
-- [Clozure Common Lisp (CCL)](https://ccl.clozure.com/)
+- [Clozure Common Lisp (CCL)](https://ccl.clozure.com)
   - [CCL manual](https://ccl.clozure.com/manual/)
 - [Carnegie Mellon University Common Lisp (CMUCL)](https://www.cons.org/cmucl/)
   - [CMUCL manual and other useful information](https://www.cons.org/cmucl/doc/index.html)
@@ -120,7 +120,7 @@ This section lists some common CL implementations and their manuals in alphabeti
   - [ECL manual](https://common-lisp.net/project/ecl/static/manual/)
 - [LispWorks](http://www.lispworks.com/products/index.html) - Commercial, but as mentioned previously, has a [Personal Edition](http://www.lispworks.com/downloads/index.html) with minor limitations.
   - [LispWorks manual](http://www.lispworks.com/documentation/index.html)
-- [Steel Bank Common Lisp (SBCL)](http://www.sbcl.org/) - My personal favorite.
+- [Steel Bank Common Lisp (SBCL)](http://www.sbcl.org) - My personal favorite.
   - [SBCL manual](http://www.sbcl.org/manual/index.html)
 - [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
   - [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
