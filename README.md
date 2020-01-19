@@ -1,4 +1,4 @@
-# Awesome Common Lisp Learning List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Common Lisp Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
   <img src="LISP_logo_mid.png">
